@@ -1,0 +1,1 @@
+C:/cygwin64/bin/g++.exe -g  -Wl,--enable-auto-import CMakeFiles/Mandelbrot_OpenGL.dir/InitShader.cpp.o CMakeFiles/Mandelbrot_OpenGL.dir/main.cpp.o  -o Mandelbrot_OpenGL.exe -Wl,--out-implib,libMandelbrot_OpenGL.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
