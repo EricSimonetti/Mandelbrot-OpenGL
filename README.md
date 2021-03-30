@@ -37,4 +37,5 @@ here's some images I've generated using the program (each one is a deeper zoom)
 ![image](https://user-images.githubusercontent.com/56443205/113064106-65872b80-9184-11eb-806b-f5bc7d443d15.png)
 
 Found a minibrot! (this is the term used for copies of the Mandelbrot set found within it) I'm fairly sure this image would look exactly like a tiny mandelbrot if I had run more iterations to check if a point was in the set. As you zoom in farther and farther you need to iterate more times to get an accurate picture.
+
 ![image](https://user-images.githubusercontent.com/56443205/113064145-7637a180-9184-11eb-8885-4231de751be1.png)
